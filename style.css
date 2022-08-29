@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tbody tr:hover {background-color: #ddd;}
+
+.nav-link, .btn {
+    text-decoration: none; 
+}
+
+.thumbnail-preview {
+    height: 155px;
+}
+
+.page-content {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+}
+
+.post-content {
+    margin-left: 27%;
+    margin-right: 27%;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 599px) { /* Mobile */
+    .page-content, .post-content {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .thumbnail-preview {
+        height: 100%;
+    }
+}
+
+.form {
+    align-content: center;
+    overflow: hidden;
+}
+
+.logo {
+    width: 115px !important;
+}
