@@ -7,6 +7,7 @@ module.exports = function (config) {
     config.addPlugin(eleventyNavigationPlugin);
 
     return {
+        pathPrefix: "/lasa-surveyor-website/",
         dir: {
             input: "src",
             output: "public",
