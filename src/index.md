@@ -14,7 +14,7 @@ eleventyNavigation:
 <div class="card-body">
     <h5 class="card-title">{{ post.data.title }}</h5>
     <p class="card-text">{{ post.data.description }}</p>
-    <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
+    <a href="{{ post.url | url }}" class="btn btn-primary">Read More</a>
 </div>
 </div>
 {% endfor %}
