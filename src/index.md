@@ -10,7 +10,7 @@ eleventyNavigation:
 <div class="card-columns">
 {% for post in collections.posts %}
 <div class="card">
-<img class="card-img-top thumbnail-preview" src="{{ post.data.thumbnail }}" alt="Card image cap">
+<img class="card-img-top thumbnail-preview" src="{{ post.data.thumbnail | url }}" alt="Card image cap">
 <div class="card-body">
     <h5 class="card-title">{{ post.data.title }}</h5>
     <p class="card-text">{{ post.data.description }}</p>
