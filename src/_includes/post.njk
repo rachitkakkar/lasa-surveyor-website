@@ -36,7 +36,7 @@
 
     <div class="post-content">
         <h1>{{ title }}</h1>
-        <img src="{{ homepage }}/{{ thumbnail }}" alt="thumbnail" style="padding-bottom: 10px;" />
+        <img src="{{ thumbnail | url}}" alt="thumbnail" style="padding-bottom: 10px;" />
         {{ content | safe }}
     </div>
 </body>
