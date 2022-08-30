@@ -20,7 +20,7 @@ Respondents were asked their opinions on the language they were currently in and
 A plurality of students spent 1-2 hours on homework each night (39.1%), with a similar number of students spending 0-1 hours and 2-3 hours on homework (26.6% and 23.4% respectively). Roughly 11% of students said they spent 3+ hours on homework each night.
 
 We also asked students which class they thought gave the most homework.
-![Homework 2](img/posts/2/homework2.png)
+![Homework 2](../../img/posts/2/homework2.png)
 62.1% of freshmen said English gave the most homework, followed by math with 17.2%. For 10th graders, the greatest amount of homework was evenly split between Great Ideas, science, and social studies, with each receiving 25% of respondents. For 11th grade, 50% of respondents noted science as giving the greatest amount of homework. Finally, 12th graders only responded with social studies, English, and science--receiving 40%, 20%, and 40% of respondents respectively.
 
 # Conclusion
