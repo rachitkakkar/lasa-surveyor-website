@@ -4,6 +4,7 @@ module.exports = function (config) {
     // we simply tell eleventy to pass a copy of our assets folder
     config.addPassthroughCopy("./src/img");
     config.addPassthroughCopy("./src/style.css");
+    config.addPassthroughCopy("./src/CNAME"); 
     config.addPlugin(eleventyNavigationPlugin);
 
     return {
