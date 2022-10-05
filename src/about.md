@@ -22,12 +22,20 @@ The LASA Surveyor is a club that surveys the student body every few weeks and pu
       <td><a href="mailto:thomas.word@austinisd.org">thomas.word@austinisd.org</a></td>
     </tr>
     <tr>
-      <td>Naman Mishra (Officer)</td>
+      <td>Naman Mishra (President)</td>
       <td><a href="mailto:naman@lasasurveyor.com">naman@lasasurveyor.com</a></td>
     </tr>
     <tr>
       <td>Rachit Kakkar (Officer)</td>
       <td><a href="mailto:rachit@lasasurveyor.com<">rachit@lasasurveyor.com</a></td>
+    </tr>
+    <tr>
+      <td>Max Bentley (Officer)</td>
+      <td><a href="mailto:rachit@lasasurveyor.com<">max@lasasurveyor.com</a></td>
+    </tr>
+    <tr>
+      <td>Mikah Muhaisen Bentley (Officer)</td>
+      <td><a href="mailto:rachit@lasasurveyor.com<">mikah@lasasurveyor.com</a></td>
     </tr>
     <tr>
       <td>Paarth Bamb (Officer)</td>
