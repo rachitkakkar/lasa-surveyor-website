@@ -34,7 +34,7 @@ The LASA Surveyor is a club that surveys the student body every few weeks and pu
       <td><a href="mailto:rachit@lasasurveyor.com<">max@lasasurveyor.com</a></td>
     </tr>
     <tr>
-      <td>Mikah Muhaisen Bentley (Officer)</td>
+      <td>Mikah Muhaisen (Officer)</td>
       <td><a href="mailto:rachit@lasasurveyor.com<">mikah@lasasurveyor.com</a></td>
     </tr>
     <tr>
