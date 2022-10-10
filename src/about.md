@@ -37,10 +37,10 @@ The LASA Surveyor is a club that surveys the student body every few weeks and pu
       <td>Mikah Muhaisen (Officer)</td>
       <td><a href="mailto:rachit@lasasurveyor.com<">mikah@lasasurveyor.com</a></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td>Paarth Bamb (Officer)</td>
       <td><a href="mailto:">Work in progress!</a></td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 It also breaks down the data into formats designed for social media, such as graphics and short videos, and posts them on its Instagram. The club allows students to practice skills like data analysis, social media outreach, writing, and website management.
