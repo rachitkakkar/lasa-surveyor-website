@@ -1,6 +1,7 @@
 ---
 title: "Survey"
-layout: "page.njk"
+layout: "redirect.njk"
+redirect: https://docs.google.com/forms/d/e/1FAIpQLSe5j9IT4G_7cg0Mw6zLyiluGOelWEXv5FWl_MX7LKjAnoEjRw/viewform?usp=sf_link
 eleventyNavigation:
     key: Survey
     icon: pencil
