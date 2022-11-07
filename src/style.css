@@ -34,6 +34,11 @@ tbody tr:hover {background-color: #ddd;}
     padding: 10px;
 }
 
+.spaced {
+    margin: 10px;
+    margin-left: 0px;
+}
+
 @media only screen and (max-width: 599px) { /* Mobile */
     .page-content, .post-content {
         margin-left: 2%;
