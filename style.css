@@ -11,6 +11,20 @@ img {
     width: 100%;
 }
 
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: #2b237f; 
+    color: white;
+}
+
+.thead {
+    background-color: #292096; 
+    color: white;
+}
+
 tr:nth-child(even) {background-color: #f2f2f2;}
 tbody tr:hover {background-color: #ddd;}
 
