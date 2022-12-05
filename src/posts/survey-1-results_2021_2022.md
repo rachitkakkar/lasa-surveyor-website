@@ -1,5 +1,5 @@
 ---
-title: Survey 1 Results - Student's Academic Lives
+title: Survey 1 Results - Student's Academic Lives (2021-2022)
 description: The results and analysis of our very first survey of LASA students!
 date: 2999-29-12
 display-date: 2-18-22

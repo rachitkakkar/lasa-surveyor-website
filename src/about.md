@@ -10,7 +10,7 @@ eleventyNavigation:
 # About the Surveyor
 The LASA Surveyor is a club that surveys the student body every few weeks and publishes interesting data breakdowns on our website.
 <table class="table">
-  <thead class="thead" style="background-color: #292096; color: white">
+  <thead class="thead">
     <tr>
       <th scope="Member">Member</th>
       <th scope="Contact">Contact</th>
