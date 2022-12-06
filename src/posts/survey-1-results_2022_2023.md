@@ -17,7 +17,7 @@ The responses were skewed towards younger students, with freshmen being the most
 | 9             | 30.2%    | 38.8%      | +8.2%            |
 | 10            | 27.1%    | 30.6%      | +3.5%            |
 | 11            | 20.4%    | 15.6%      | -4.8%            |
-| 12            | 22.%     | 15%        | -7.2%            |
+| 12            | 22.2%     | 15%        | -7.2%            |
 
 # Subject-Color Association
 Social studies voters were by far the most divided, though yellow stood in the lead by a margin of 12 points, followed by orange and purple (Colors represent themselves, gray is other).
