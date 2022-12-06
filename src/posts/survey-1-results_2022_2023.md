@@ -26,7 +26,7 @@ Social studies voters were by far the most divided, though yellow stood in the l
 English was still contested, mostly between red and blue, though yellow had roughly 1 in 6 votes. Blue leads slightly here, followed by red and yellow.
 ![English](../../img/posts/3/English.png)
 
-Math was mostly divided between red and blue, which together made up 86.9% of votes. Blue led here.
+Math was mostly divided between red and blue, which together made up 86.9% of votes. Red had a slight lead here.
 ![Grade Levels](../../img/posts/3/Math.png)
 
 Science was the least contested, with almost 75% of voters selecting green.
