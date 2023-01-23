@@ -53,7 +53,7 @@
         <form>
             <div class="btn-group">
                 <div class="spaced form-group">
-                    <select class="form-control" aria-label=".form-select-lg example">
+                    <select id="class" class="form-control" aria-label=".form-select-lg example">
                         <option selected>Select a class</option>
                         <option value="Social Studies">Social Studies</option>
                         <option value="English">English</option>
@@ -63,7 +63,7 @@
                 </div>
 
                 <div class="spaced form-group">
-                    <select class="form-control" aria-label=".form-select-lg example">
+                    <select id="color" class="form-control" aria-label=".form-select-lg example">
                         <option selected>Select a color</option>
                         <option value="Red">Red</option>
                         <option value="Yellow">Yellow</option>
@@ -75,6 +75,7 @@
                 </div>
             </div><br>
             <button type="button" onclick="formSubmit()" class="btn btn-info">Compare!</button>
+            <p id="result"></p>
         </form>
     </div>
 </body>
