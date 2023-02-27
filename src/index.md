@@ -7,6 +7,12 @@ eleventyNavigation:
     order: 1
 ---
 <div class="container">
+<a href="/projects/compare">
+ <div class="banner">
+  <h3>New!</h3>
+  <p>Click to compare your results from survey #1 with other students!</p>
+</div> 
+</a>
 <div class="card-columns">
 {% for post in collections.posts %}
 <div class="card">
