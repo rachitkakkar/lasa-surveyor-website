@@ -1,12 +1,12 @@
 ---
 title: "Survey"
 layout: "redirect.njk"
-redirect: https://docs.google.com/forms/d/e/1FAIpQLSfTAXbeU1_hB7zvQyq7ZsbdMurLGNGtYIWGDzJJ0BAs60l_kQ/viewform?usp=share_link
+redirect: https://docs.google.com/forms/d/e/1FAIpQLSc2UxX6Xh4Y4c7bbs-GjrlDlfQ4J2Zz-SY-tKygQZrI0mrZiw/viewform
 eleventyNavigation:
     key: Survey
     icon: pencil
     order: 3
-    url: https://docs.google.com/forms/d/e/1FAIpQLSfTAXbeU1_hB7zvQyq7ZsbdMurLGNGtYIWGDzJJ0BAs60l_kQ/viewform?usp=share_link
+    url: https://docs.google.com/forms/d/e/1FAIpQLSc2UxX6Xh4Y4c7bbs-GjrlDlfQ4J2Zz-SY-tKygQZrI0mrZiw/viewform
     permalink: false
 ---
 <!--

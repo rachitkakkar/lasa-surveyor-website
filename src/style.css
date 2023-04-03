@@ -3,6 +3,28 @@ body {
     padding: 0;
 }
 
+.dark-mode {
+    color: rgb(236, 232, 222) !important;
+    background-color: rgb(32, 32, 32) !important;
+}
+
+.dark-mode nav {
+    background-color: rgb(19, 19, 19) !important;
+}
+
+.dark-mode .nav-link {
+    color: rgb(236, 232, 222) !important;
+}
+
+.dark-mode .nav-link:hover {
+    color: rgb(184, 178, 167) !important;
+}
+
+.dark-mode .card-body {
+    color: rgb(236, 232, 222) !important;
+    background-color: rgb(32, 32, 32) !important;
+}
+
 a {
     text-decoration: underline;
 }
