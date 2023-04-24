@@ -69,7 +69,6 @@ tbody tr:hover {background-color: #ddd;}
   background: #007bff;
   color: white;
   font-size: 15px;
-  border-radius: 5px;
 }
 
 .post-content {
@@ -81,6 +80,10 @@ tbody tr:hover {background-color: #ddd;}
 .spaced {
     margin: 10px;
     margin-left: 0px;
+}
+
+.rounded {
+    border-radius: 10px !important;
 }
 
 @media only screen and (max-width: 599px) { /* Mobile */
