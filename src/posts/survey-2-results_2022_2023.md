@@ -29,54 +29,54 @@ The most used social media platforms among students were Youtube, Discord, and I
 ![Social Media Accounts](../../img/posts/4/2.png)
 
 Instagram and Discord were by far the most posted on social media apps. BeReal and Snapchat followed in a distant 3rd and 4th.
-[graph]
+![Posted Apps](../../img/posts/4/3.png)
 
 Students regularly viewed posts from Youtube, Discord, and Instagram. These platforms also contested each other for the platform students viewed posts from the MOST.
-[graph] 1 
-[graph] 2
+![Regularly Viewed Posts](../../img/posts/4/4.png)
+![Most Viewed Posts](../../img/posts/4/5.png)
 
 # Technology
 The vast majority of students own Apple phones, with Samsung being placed in a distant second.
-[graph]
+![Phones](../../img/posts/4/6.png)
 
 Most students have phones that are 3 years old, followed by 2, 4, and 1.
-[graph]
+![Phone Age](../../img/posts/4/7.png)
 
 Most students have owned their phones for two years, followed by those who have owned their phones for less than a year and for only 1 year.
-[graph]
+![Owned Phone Age](../../img/posts/4/8.png)
 
-The vast majority of students use IOS, which is by no means surprising considering the vast majority of students own iPhones. Android is a distant second (which is not a surprise). The variation in percentages between iPhone users and IOS years is due to the fact that two less people answered this question.
-[graph]
+The vast majority of students use iOS, which is by no means surprising considering the vast majority of students own iPhones. Android is a distant second (which is not a surprise). The variation in percentages between iPhone users and iOS years is due to the fact that two less people answered this question.
+![Phone Operating System](../../img/posts/4/9.png)
 
-A smaller percentage of users prefer IOS or Android than those who use it. This is due to the fact that many people had no preference, or were uncertain due to limited experience with the other OS.
-[graph]
+A smaller percentage of users prefer iOS or Android than those who use it. This is due to the fact that many people had no preference, or were uncertain due to limited experience with the other OS.
+![Operating System Prefered](../../img/posts/4/10.png)
 
 People typically own one to two laptops, and very few have three to four.
-[graph]
+![Owned Laptop](../../img/posts/4/11.png)
 
 Most people have Windows or ChromeOS (which is no surprise because Windows is the most popular operating system and the school provides free chromebooks to students). A significant number used MacOS, and very few people used Linux.
-[graph]
+![Laptop OS](../../img/posts/4/12.png)
 
 People overwhelmingly use Google as their default search engine (which is no surprise). DuckDuckGo is a distant second, and Bing is a distant third.
-[graph]
+![Search Engine](../../img/posts/4/13.png)
 
 People tend to use Chrome as their browser, but many also use Safari. This is to be expected due to the significant number of MacOS users.
-[graph]
+![Browser](../../img/posts/4/14.png)
 
 Most students took zero photos per day, with the number of students who took a given number of photos declining as that number went up.
-[graph]
+![Photos Taken](../../img/posts/4/15.png)
 
 Most students did not own an external camera, preferring to opt for their phone. This indicates just how much smartphone cameras have improved in recent years.
-[graph]
+![External Camera](../../img/posts/4/16.png)
 
 The streaming services varied significantly, but the heavy hitters were Netflix, Disney+, and Prime Video. Hulu and HBO Max also had a decent number of users, and were basically tied with each other.
-[graph]
+![Streaming Services](../../img/posts/4/17.png)
 
 Roughly a half of students used Netflix the most, with the other half being split between services such as Disney+, Hulu, and Prime Video.
-[graph]
+![Streaming Services Used](../../img/posts/4/18.png)
 
 Roughly a quarter of students viewed Netflix and Disney+ as having the best value for money––followed by Prime Video, HBO Max, and Hulu. A few people mentioned piracy or 123movies as having the best value, which is technically true ¯\\_(ツ)_/¯. Piracy was also mentioned for the other questions involving streaming services.
-[graph]
+![Streaming Services With Best Value](../../img/posts/4/19.png)
 
 # Conclusion
 Our survey skewed drastically towards sophomores and once again underrepresented seniors.  However, freshman and juniors were more accurately represented. However, it still provided some insight into LASA students and their media habits. In the future, we hope to get our survey out to an even larger audience (especially upperclassmen) that is more representative of the LASA student body.
