@@ -29,12 +29,17 @@ a {
     text-decoration: underline;
 }
 
+a {
+    color: none;
+}
+
 img {
     width: 100%;
 }
 
 table {
     width: 100%;
+    padding-bottom: 50px;
 }
 
 thead {
@@ -59,8 +64,8 @@ tbody tr:hover {background-color: #ddd;}
 }
 
 .page-content {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
     padding: 10px;
 }
 
@@ -72,8 +77,8 @@ tbody tr:hover {background-color: #ddd;}
 }
 
 .post-content {
-    margin-left: 27%;
-    margin-right: 27%;
+    margin-left: 20%;
+    margin-right: 20%;
     padding: 10px;
 }
 
@@ -104,4 +109,13 @@ tbody tr:hover {background-color: #ddd;}
 
 .logo {
     width: 115px !important;
+}
+
+.graph {
+    left: 0;
+    right: 0;
+    margin:auto;
+    padding-top: 5px;
+    width: 60% !important;
+    height: 60% !important;
 }
