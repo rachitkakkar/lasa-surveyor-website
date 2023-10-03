@@ -79,4 +79,4 @@ Roughly a quarter of students viewed Netflix and Disney+ as having the best valu
 ![Streaming Services With Best Value](../../img/posts/4/19.png)
 
 # Conclusion
-Our survey skewed drastically towards sophomores and once again underrepresented seniors.  However, freshman and juniors were more accurately represented. However, it still provided some insight into LASA students and their media habits. In the future, we hope to get our survey out to an even larger audience (especially upperclassmen) that is more representative of the LASA student body.
+Our survey skewed drastically towards sophomores and once again underrepresented seniors. Freshman and juniors were more accurately represented. However, it still provided some insight into LASA students and their media habits. In the future, we hope to get our survey out to an even larger audience (especially upperclassmen) that is more representative of the LASA student body.
