@@ -18,7 +18,7 @@ The countries and states which students traveled to can be viewed in the maps be
 ![Countries](../../img/posts/5/summer_countries_visited.png)
 ![States](../../img/posts/5/summer_states_visited.png)
 
-The majority of students traveled for recreation, and half traveled to visit family and friends. Around 23.9% traveled specifically for an academic/work-related reason.
+The majority of students traveled for recreation, and half traveled to visit family and friends. Over a quarter traveled specifically for an academic/work-related reason.
 ![Reason](../../img/posts/5/2.png)
 
 The majority of students (around two-thirds) did not work or intern over the summer.
