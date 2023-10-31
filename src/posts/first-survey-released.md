@@ -3,6 +3,7 @@ title: First Survey Released - Student's Academic Lives
 description: Our first survey about student's academic lives has been released!
 date: 2999-30-12
 display-date: 11-21-21
+tags: postold
 thumbnail: /img/posts/1/thumbnail.jpg
 ---
 Our first survey is out now! The LASA Surveyor is interested in gathering information about student's academic lives, and we ask you to please fill out the survey (which can be found at [here](https://lasasurveyor.com/survey)). 

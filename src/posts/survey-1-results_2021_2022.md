@@ -3,6 +3,7 @@ title: Survey 1 Results - Student's Academic Lives (2021-2022)
 description: The results and analysis of our first survey for the 2021-2022 school year!
 date: 2999-29-12
 display-date: 2-18-22
+tags: postold
 thumbnail: /img/posts/2/thumbnail.png
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: Survey 2 Results - Student's Media Habits (2022-2023)
 description: The results and analysis of our second survey for the 2022-2023 school year!
-date: 2999-27-12
+date: 2999-26-12
 display-date: 5-1-23
+tags: post
 thumbnail: /img/posts/3/thumbnail.jpg
 ---
 
