@@ -7,7 +7,7 @@ eleventyNavigation:
     order: 1
 ---
 <div class="container post-list">
-<div class="card-deck">
+<div class="card-columns">
 {% for post in collections.post %}
 <div class="card">
 <img class="card-img-top thumbnail-preview" src="{{ post.data.thumbnail | url }}" alt="Card image cap">
