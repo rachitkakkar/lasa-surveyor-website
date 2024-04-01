@@ -1,5 +1,5 @@
 ---
-title: Survey 2 Results - Student's Summer & School Lives (2023-2024)
+title: Survey 2 Results - Student Extracurriculars & Activities (2023-2024)
 description: The results and analysis of our second survey for the 2023-2024 school year!
 date: 2999-26-11
 display-date: 10-30-23
