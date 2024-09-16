@@ -1,0 +1,34 @@
+baseURL = 'http://lasasurveyor.com/'
+languageCode = 'en-us'
+title = 'LASA Surveyor'
+
+[menu]
+    [[menu.nav]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.nav]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+    [[menu.nav]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+
+    [[menu.nav]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+    [[menu.nav]]
+    identifier = "survey"
+    name = "Survey"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLSfc1SlH6cOuoauY-f8m3mJ18aAHpmCIXYJgHYcHvW58XbGFOA/viewform"
+    weight = 5
