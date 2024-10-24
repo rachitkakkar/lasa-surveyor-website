@@ -1,0 +1,33 @@
+@import "main";
+
+#title-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: flex-start;
+  gap: 20px;
+
+  padding: 15px 10px;
+
+  background-color: $accent-color-bg;
+}
+
+#title {
+  font-family: $heading-font;
+  font-weight: 700;
+  font-size: calc(max(50px, 6vw));
+}
+
+#subtitle {
+  font-family: $body-font;
+  font-weight: 600;
+  font-size: calc(max(20px, 1.5vw));
+}
+
+#seal {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}

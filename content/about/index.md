@@ -3,8 +3,20 @@ title: "About the Surveyor"
 draft: false
 ---
 
-The LASA Surveyor is a club that surveys the student body every few weeks and publishes interesting data breakdowns on our website.
+At the LASA surveyor, our mission is to collect anonymous surveys of [LASA High School's](https://lasa.austinschools.org)
+diverse student body and make them accessible to everyone. We ask about everything from politics to favorite foods. In the
+past, we have also collaborated with other LASA clubs to collect data on their behalf. We typically run 2--5 surveys per
+year, and analyze the results, which are then published here.
 
-{{< about_table >}}
+| Member                          | Contact                           |
+| ------------------------------- | --------------------------------- |
+| Mr. Word (sponsor)              | thomas.word@austinisd.org         |
+| Naman Mishra (president)        | naman@lasasurveyor.com            |
+| Max Bentley (officer)           | max@lasasurveyor.com              |
+| Mikah Muhaisen (marketing lead) | mikah@lasasurveyor.com            |
+| Rachit Kakkar (developer)       | rachit@lasasurveyor.com           |
+| Maxim Rebguns (developer)       | maxim.rebgunsj7@stu.austinisd.org |
 
-It also breaks down the data into formats designed for social media, such as graphics and short videos, and posts them on its Instagram. The club allows students to practice skills like data analysis, social media outreach, writing, and website management. 
+We are an official LASA club, and you can join us by participating on Mondays during lunch in Mr. Word's room.
+
+This website is maintained by Rachit Kakkar and Maxim Rebguns.

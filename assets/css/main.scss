@@ -1,0 +1,163 @@
+/** FONTS **/
+@font-face {
+  font-family: "Oswald";
+  src: url("/fonts/oswald-variable.woff2") format("woff2-variations");
+  font-weight: 200 700;
+}
+
+// @font-face {
+//   font-family: "Source Serif Roman";
+//   src: url("/fonts/source-serif-roman.woff2") format("woff2-variations");
+//   font-weight: 200 900;
+// }
+
+// @font-face {
+//   font-family: "Source Serif Italic";
+//   src: url("/fonts/source-serif-italic.woff2") format("woff2-variations");
+//   font-weight: 200 900;
+// }
+
+@font-face {
+  font-family: "Source Sans Roman";
+  src: url("/fonts/source-sans-roman.woff2") format("woff2-variations");
+  font-weight: 200 900;
+}
+
+@font-face {
+  font-family: "Source Sans Italic";
+  src: url("/fonts/source-sans-italic.woff2") format("woff2-variations");
+  font-weight: 200 900;
+}
+
+$heading-font: "Oswald", sans-serif;
+$body-font: "Source Sans Roman", sans-serif;
+$body-font-italic: "Source Sans Italic", sans-serif;
+
+/** COLORS **/
+$background-color: #081728;
+$text-color: #eee;
+$accent-color-bg: #0C2340;
+$accent-color-fg: #C8C9C7;
+
+/** STYLES **/
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: $body-font;
+  font-weight: normal;
+  font-size: calc(max(15px, 1.3vw));
+  color: $text-color;
+
+  background-color: $background-color;
+}
+
+@keyframes nav-hover {
+  from {
+    background-color: inherit;
+  }
+
+  to {
+    background-color: $text-color;
+    box-shadow: inset 0 0 0 3px $accent-color-bg;
+  }
+}
+
+nav {
+  ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 3px 10px;
+
+    margin: 0;
+    padding: 3px 10px;
+
+    list-style-type: none;
+
+    background-color: $accent-color-fg;
+  }
+
+  li {
+    a {
+      padding: 10px 15px;
+      border-radius: 5px;
+      display: block;
+
+      font-family: $heading-font;
+      font-size: 25px;
+      font-weight: 500;
+      text-decoration: none;
+      border: none;
+      color: $accent-color-bg;
+
+      &:hover, &:focus {
+        text-decoration: none;
+        border: none;
+
+        animation-duration: 0.3s;
+        animation-name: nav-hover;
+        animation-fill-mode: forwards;
+        animation-timing-function: linear;
+      }
+    }
+  }
+}
+
+footer {
+  padding: 10px;
+
+  background-color: $accent-color-bg;
+
+  text-align: center;
+}
+
+#content-container {
+  margin: auto;
+  min-width: 200px;
+  width: 70ch;
+  max-width: 90%;
+  padding: 20px 0;
+
+  text-align: left;
+  hyphens: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: calc(max(30px, 3vw));
+}
+
+h2 {
+  font-weight: 600;
+  font-size: calc(max(25px, 2vw));
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 20px 2px;
+  margin: 0 -20px;
+}
+
+a {
+  color: $accent-color-fg;
+  text-decoration: $accent-color-fg underline;
+
+  &:hover {
+    text-decoration: pink wavy underline;
+  }
+
+  &:focus {
+    border: 2px solid pink;
+  }
+}
+
+a[target='_blank']::after {
+  content: ' ↗';
+}

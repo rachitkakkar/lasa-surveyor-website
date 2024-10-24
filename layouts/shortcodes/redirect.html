@@ -1,1 +1,10 @@
-<meta http-equiv="refresh" content="0; url={{ .Inner }}" />
+{{ .Inner }}
+{{ if .Site.Params.isSurveyUnlocked }}
+<meta http-equiv="refresh" content="0; url={{ .Site.Params.surveyURL }}" />
+<p>This page should redirect you to the survey. If it doesn't <a href="{{ .Site.Params.surveyURL }}">click here to be taken to the survey.</a></p>
+{{ else }}
+<p>
+  There is currently no published survey. Check this page out another time, and stay on the watch for Blend announcements.
+  In the meantime, you can also check out some of our <a href="/posts/">posts</a>.
+</p>
+{{ end }}

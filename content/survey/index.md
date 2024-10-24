@@ -1,7 +1,7 @@
 ---
-title: "About the Surveyor"
+title: "Latest Survey"
 draft: false
 ---
-{{< redirect >}} https://forms.gle/nHhCY57NLZjxp8PKA {{</ redirect >}}
 
-Please follow {{< link href="https://forms.gle/nHhCY57NLZjxp8PKA" >}}this link{{< /link >}}.
+
+{{< redirect >}}You can always find the latest survey here (if there is a survey).{{</ redirect >}}

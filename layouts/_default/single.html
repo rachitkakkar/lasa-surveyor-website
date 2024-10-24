@@ -1,10 +1,10 @@
+{{ define "title" }}
+  {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+
 {{ define "main" }}
-<section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:px-32">
-        <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
-            <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white">{{ .Title }}</h2>
-            <p class="mb-4 font-medium">{{ .Content }}</p>
-        </div>
-    </div>
-</section>
+<div id="content-container">
+  <h1 id="title">{{ .Title }}</h1>
+  {{ .Content }}
+</div>
 {{ end }}

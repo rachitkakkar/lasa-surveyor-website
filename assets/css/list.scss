@@ -1,0 +1,34 @@
+@import "main";
+
+#cards {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.main-link {
+  color: $accent-color-fg;
+
+  &:hover, &:focus {
+    border-radius: 4px;
+    padding: 1px 10px;
+    margin: -10px;
+
+    text-decoration: none;
+  
+    background: linear-gradient(270deg, #04003f, #005f74);
+    background-size: 400% 400%;
+  
+    animation: AnimationName 6s ease infinite;
+  }
+
+  &:focus {
+    outline: 3px solid $text-color;
+  }
+}
+
+@keyframes AnimationName {
+  0% { background-position: 0% 50%; }
+  50%{ background-position: 100% 50%; }
+  100%{ background-position: 0% 50%; }
+}
+

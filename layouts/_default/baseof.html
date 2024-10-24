@@ -1,28 +1,47 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        {{ block "title" . }}
-        {{ .Site.Title }}
-        {{ end }}
-    </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{ block "title" . }}
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
-    <link rel="stylesheet" type="text/css" href="/css/index.css" />
+  {{ block "styles" . }}
+    {{ $style := resources.Get "css/main.scss" | css.Sass | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ end }}
 </head>
+<body>
 
-<body class="flex flex-col min-h-screen bg-white dark:bg-zinc-800">
-    {{- partial "navbar.html" . -}}
+<header>
+  {{ block "header" . }}
+  <nav>
+    <ul>
+      {{- range site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{- end }}
+    </ul>
+  </nav>
+  {{ end }}
+</header>
 
-    <div class="flex-grow">
-        {{ block "main" . }}
-        <!-- Content specific to page type goes here -->
-        {{ end }}
-    </div>
+<main>
+  {{ block "main" . }}
+  {{ end }}
+</main>
 
-    {{- partial "footer.html" . -}}
+<footer>
+  {{ block "footer" . }}
+  <p>
+    Made with <span role="img" aria-label="love" title="love">♥️</span> by the LASA Surveyor.
+    Analyses are copyright LASA Surveyor 2024 and are licensed under
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank">CC BY-NC-SA 4.0</a>.
+  </p>
+  {{ end }}
+</footer>
+
 </body>
 </html>

@@ -2,33 +2,27 @@ baseURL = 'http://lasasurveyor.com/'
 languageCode = 'en-us'
 title = 'LASA Surveyor'
 
-[menu]
-    [[menu.nav]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+[params]
+isSurveyUnlocked = true
+surveyURL = "https://forms.gle/Kggs2KQ6Yw3dUEws7"
 
-    [[menu.nav]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
+[menus]
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 1
 
-    [[menu.nav]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 3
+[[menus.main]]
+name = "About/Contact"
+pageRef = "/about/"
+weight = 4
 
-    [[menu.nav]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+[[menus.main]]
+name = "Posts"
+pageRef = "/posts/"
+weight = 3
 
-    [[menu.nav]]
-    identifier = "survey"
-    name = "Survey"
-    url = "https://docs.google.com/forms/d/e/1FAIpQLSfc1SlH6cOuoauY-f8m3mJ18aAHpmCIXYJgHYcHvW58XbGFOA/viewform"
-    weight = 5
+[[menus.main]]
+name = "Survey"
+pageRef = "/survey/"
+weight = 2
