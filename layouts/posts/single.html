@@ -1,0 +1,15 @@
+{{ define "title" }}
+  {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<article>
+  <div id="content-container">
+    <h1 id="title">{{ .Title }}</h1>
+    <p>{{ .Date | time.Format ":date_long" }}</p>
+    <p>By: The LASA Surveyor Club Captains</p>
+    <hr>
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

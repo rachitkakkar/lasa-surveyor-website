@@ -16,6 +16,7 @@
       <li class="card">
         <article>
           <h2><a href="{{ .Permalink }}" class="main-link">{{ .Title }}</a></h2>
+          <p class="date">{{ .Date | time.Format ":date_medium" }}</p>
           <p>{{ .Content | plainify | truncate 200 }}</p>
         </article>
       </li>

@@ -123,6 +123,17 @@ footer {
 
   text-align: left;
   hyphens: auto;
+
+  img {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -160,4 +171,17 @@ a {
 
 a[target='_blank']::after {
   content: ' ↗';
+}
+
+em {
+  font-family: $body-font-italic;
+}
+
+hr {
+  width: 50%;
+  min-width: calc(min(1vw, 200px));
+  border-top: 2px solid $accent-color-fg;
+  margin-left: 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }

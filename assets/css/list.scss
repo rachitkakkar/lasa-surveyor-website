@@ -5,7 +5,14 @@
   padding-left: 0;
 }
 
+@keyframes GlowAnimation {
+  0% { background-position: 0% 50%; }
+  50%{ background-position: 100% 50%; }
+  100%{ background-position: 0% 50%; }
+}
+
 .main-link {
+  line-height: 160%;
   color: $accent-color-fg;
 
   &:hover, &:focus {
@@ -18,7 +25,7 @@
     background: linear-gradient(270deg, #04003f, #005f74);
     background-size: 400% 400%;
   
-    animation: AnimationName 6s ease infinite;
+    animation: GlowAnimation 6s ease infinite;
   }
 
   &:focus {
@@ -26,9 +33,7 @@
   }
 }
 
-@keyframes AnimationName {
-  0% { background-position: 0% 50%; }
-  50%{ background-position: 100% 50%; }
-  100%{ background-position: 0% 50%; }
+.date {
+  font-family: $body-font-italic;
 }
 
