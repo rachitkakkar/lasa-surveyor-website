@@ -1,6 +1,8 @@
 ---
 title: "Latest Survey"
 draft: false
+sitemap:
+    disable: true
 ---
 
 

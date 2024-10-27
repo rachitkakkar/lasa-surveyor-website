@@ -7,7 +7,11 @@
   <div id="content-container">
     <h1 id="title">{{ .Title }}</h1>
     <p>{{ .Date | time.Format ":date_long" }}</p>
-    <p>By: The LASA Surveyor Club Captains</p>
+    {{ if .Param "author" }}
+      <p>By: {{ .Param "author" }}</p>
+    {{ else }}
+      <p>By: The LASA Surveyor Club Captains</p>
+    {{ end }}
     <hr>
     {{ .Content }}
   </div>

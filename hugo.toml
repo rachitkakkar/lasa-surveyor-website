@@ -1,6 +1,6 @@
-baseURL = 'http://lasasurveyor.com/'
-languageCode = 'en-us'
-title = 'LASA Surveyor'
+baseURL = "http://lasasurveyor.com/"
+languageCode = "en-us"
+title = "LASA Surveyor"
 
 [params]
 isSurveyUnlocked = true
