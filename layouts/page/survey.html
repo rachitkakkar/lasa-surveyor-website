@@ -1,0 +1,34 @@
+{{ define "title" }}
+  {{ if .Site.Params.isSurveyUnlocked }}
+  Redirecting
+  {{ else }}
+  {{ .Title }} | {{ .Site.Title }}
+  {{ end }}
+{{ end }}
+
+{{ define "metadata" }}
+  {{ if .Site.Params.isSurveyUnlocked }}
+  <meta http-equiv="refresh" content="0; url={{ .Site.Params.surveyURL }}">
+  <script type="text/javascript">
+    window.location.href = '{{ .Site.Params.surveyURL }}';
+  </script>
+  {{ end }}
+{{ end }} 
+
+{{ define "main" }}
+<div id="content-container">
+  {{ if .Site.Params.isSurveyUnlocked }}
+  <h1>Redirecting to the latest survey&#8230;</h1>
+  <p>
+    This page should redirect you automatically to the survey. If it doesn't,
+    <a href="{{ .Site.Params.surveyURL }}">click here to be taken to the survey.</a>
+  </p>
+  {{ else }}
+  <h1>{{ .Title }}</h1>
+  <p>
+    We are currently not running a survey. Check this page out another time and stay on the watch for Blend announcements.
+    In the meantime, you can also check out some of our <a href="/posts/">posts</a>.
+  </p>
+  {{ end }}
+</div>
+{{ end }}
