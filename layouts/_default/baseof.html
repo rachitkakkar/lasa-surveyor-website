@@ -38,8 +38,13 @@
   {{ block "header" . }}
   <nav>
     <ul>
+      {{ $currentPage := . }}
       {{- range site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ if or ($currentPage.HasMenuCurrent .Menu .) ($currentPage.IsMenuCurrent .Menu .) }}
+          <li class="active" aria-current="true"><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ else }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
       {{- end }}
     </ul>
   </nav>
