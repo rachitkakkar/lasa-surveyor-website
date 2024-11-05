@@ -3,11 +3,11 @@ title: "Survey 1 Results: Students' Academic Lives"
 date: 2023-02-18
 ---
 
-# Background
+## Background
 
 Our first survey of this year ran from October 10th to October 24th. It covered (generally) school life, with a special section about milk on behalf of the Stetson. It received 147 responses.
 
-# Sample
+## Sample
 
 The responses were skewed towards younger students, with freshmen being the most overrepresented and seniors being the most underrepresented.
 
@@ -18,7 +18,7 @@ The responses were skewed towards younger students, with freshmen being the most
 | 11            | 20.4%    | 15.6%      | -4.8%            |
 | 12            | 22.2%    | 15%        | -7.2%            |
 
-# Subject-Color Association
+## Subject-Color Association
 
 Social studies voters were by far the most divided, though yellow stood in the lead by a margin of 12 points, followed by orange and purple (Colors represent themselves, gray is other).
 
@@ -36,7 +36,7 @@ Science was the least contested, with almost 75% of voters selecting green.
 
 ![Grade Levels](Science.png)
 
-# Grades
+## Grades
 
 We also asked what students considered a “good grade” and how satisfied they were with their current grades.
 
@@ -57,7 +57,7 @@ However, when separated by grade, we see that sophomores have the highest standa
 | 11            | 89.00                | 8.48                       |
 | 12            | 89.40                | 9.33                       |
 
-# Homework
+## Homework
 
 Another topic we asked about was homework. To measure the amount of homework respondents got, we asked them to pick between a few multiple-choice ranges. This is not the most precise, but it is the simplest way of getting this information.
 
@@ -65,6 +65,6 @@ A plurality of students said they get 1-2 hours of homework a night. The next la
 
 ![Grade Levels](NightlyTimeSpentonHomework.png)
 
-# Conclusion
+## Conclusion
 
 Our first survey of the year was limited somewhat by a somewhat small sample size (despite being an improvement from last year) and a skewing towards younger students. However, it still provided some insight into LASA students. In the future, we hope to get our survey out to an even larger audience that is more representative of the LASA student body.

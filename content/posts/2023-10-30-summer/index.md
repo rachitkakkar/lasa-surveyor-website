@@ -31,7 +31,7 @@ The majority of students also did not take a summer class for highschool or coll
 
 ![Class](4.png)
 
-# School
+## School
 
 Students were evenly split between the different sports, with the most playing volleyball, followed by track, swim/drive, and cross country. No respondent participated in football, wrestling, or lacrosse (and thus they were omitted from the graph).
 

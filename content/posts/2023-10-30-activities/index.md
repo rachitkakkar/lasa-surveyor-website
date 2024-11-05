@@ -70,7 +70,7 @@ volunteer 15 hours (or 30 hours, if less than 5 were sponsored) over the
 course of 5 months to stay enrolled. This can be distributed to 3 hours
 per month.
 
-# Work-Life Balance
+## Work-Life Balance
 
 ![](cell-13-output-1.png)
 

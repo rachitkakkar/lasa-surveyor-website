@@ -3,11 +3,11 @@ title: "Survey 2 Results: Students' Media Habits"
 date: 2023-05-01
 ---
 
-# Background
+## Background
 
 Our second survey released late February, covering the topics of technology and media. There was also a special section with questions from LASACS, but those will not be reviewed in this post. The survey received 120 responses, which was slightly less than our first post.
 
-# Sample
+## Sample
 
 The responses were skewed towards younger students. Sophomores were the most overrepresented group by far. In fact, there was a significant 13.5% difference between the actual representation and recorded responses for sophomores. Freshmen were the most accurately represented group, with there only being a 0.6% difference. Seniors were once again the most underrepresented (even more than last time).
 
@@ -18,7 +18,7 @@ The responses were skewed towards younger students. Sophomores were the most ove
 | 11            | 20.4%    | 18.3%      | -2.1%            |
 | 12            | 22.2%    | 10.8%      | -11.4%           |
 
-# Social Media
+## Social Media
 
 The vast majority of students used social media.
 
@@ -38,7 +38,7 @@ Students regularly viewed posts from Youtube, Discord, and Instagram. These plat
 
 ![Most Viewed Posts](5.png)
 
-# Technology
+## Technology
 
 The vast majority of students own Apple phones, with Samsung being placed in a distant second.
 
@@ -96,6 +96,6 @@ Roughly a quarter of students viewed Netflix and Disney+ as having the best valu
 
 ![Streaming Services With Best Value](19.png)
 
-# Conclusion
+## Conclusion
 
 Our survey skewed drastically towards sophomores and once again underrepresented seniors. Freshman and juniors were more accurately represented. However, it still provided some insight into LASA students and their media habits. In the future, we hope to get our survey out to an even larger audience (especially upperclassmen) that is more representative of the LASA student body.
