@@ -173,9 +173,11 @@ The last issue we asked about was in regards to transgender women competing in c
 
 ![Graph of respondent viewpoints on trans women in college-level sports](trans.png)
 
+### Top Issues
+
 The top issues overall were reproductive rights, climate change (45%), gun policy, the economy (41%), foreign policy (33%), and healthcare.
 
-### Top Issues
+![A graph showing election issues ranked by importance among students](top-issues.png)
 
 On climate change, respondents generally lamented the perceived tossing of the issue to the side in favor of other issues during the campaign, with one student claiming it is being "left behind…in favor of more selfish issues." Elaborations generally tended to focus on how it will negatively affect the world in the long-run. One student pointed out that "future generations will suffer the consequences" if nothing is done to mitigate it. Another student pointed to the inequalities that exist globally between first and third-world countries with regards to the effects of climate change, saying that "we push all our problems to other countries like vietnam, and india, and malaysia… We are all in this together, we are all effected [sic]." 
 
