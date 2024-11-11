@@ -119,7 +119,7 @@ Immigration was a largely unpopular choice for a top issue (only 24% selected it
 
 > The problem of immigration needs to be addressed, with illegal immigration skyrocketing during the Biden administration.
 
-Alternatively, some responses wanted to expand legal avenues or were more supportive of immigration overall. Several people believed the government should prioritize improving existing systems, such as the work visa renewal system and other legal pathways to citizenship. One response felt "as if America has lost part of it's [sic] purpose," saying that while "Immigration… is a challenge… at the same time, more jobs are being filled, and more work is getting done." Another person criticized the shift in public discourse against immigration, saying that "both primary parties have horrible positions on [immigration]", with Republicans having "borderline genocidal" views of "deporting anyone who is an immigrant" and Democrats "[having] shifted to the right… adopting the Republican position from 2016," citing Kamala's non-opposition to a border wall in a recent town hall.
+Alternatively, some responses wanted to expand legal avenues or were more supportive of immigration overall. Several people believed the government should prioritize improving existing systems, such as the work visa renewal system and other legal pathways to citizenship. One response felt "as if America has lost part of it's [sic] purpose," saying that while "Immigration… is a challenge… at the same time, more jobs are being filled, and more work is getting done." Another person criticized the shift in public discourse against immigration, saying that "both primary parties have horrible positions on [immigration]", with Republicans having "borderline genocidal" views of "deporting anyone who is an immigrant" and Democrats "[having] shifted to the right… adopting the Republican position from 2016," citing Harris' non-opposition to a border wall in a recent town hall.
 
 > Surprisingly, immigration can be drastically improved in a few ways, one being improving the work visa system, as most of the illegal immigrants in our country came in legally on work visas but just overstayed their expiration, so if this is renewed or fixed en masse, we would see a huge drop in the illegal immigrant number.
 
@@ -195,7 +195,7 @@ Several cited the preservation of democracy as their most important issue, citin
 
 > [Trump] is a convicted felon, sexual abuser, and unconstitutional wannabe fascist who, if elected, will do anything it takes to bring down democracy and this nation as a whole.
 
-A stark political divide emerged between students who were for Trump versus Kamala. Both argued that the end of our democratic society would come close if the opposing candidate were to be elected.
+A stark political divide emerged between students who were for Trump versus Harris. Both argued that the end of our democratic society would come close if the opposing candidate were to be elected.
 
 > As a Christian first and nationalist second it is the duty of all Christians to vote for candidates who will support Christian values instead of promoting the further deterioration of our society.
 
