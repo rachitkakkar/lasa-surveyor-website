@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "LASA Surveyor"
 
 [params]
-isSurveyUnlocked = false
-surveyURL = "https://forms.gle/Kggs2KQ6Yw3dUEws7"
+isSurveyUnlocked = true
+surveyURL = "https://forms.gle/28xqVam4Lb83yEzLA"
 
 [menus]
 [[menus.main]]
